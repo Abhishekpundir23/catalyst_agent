@@ -53,5 +53,115 @@
     "bio": "Experienced in predictive modeling and customer churn analysis. Looking for opportunities involving deep learning.",
     "current_salary_expectation": "₹25LPA",
     "open_to_work": true
+  },
+  {
+    "id": "c6",
+    "name": "Rahul Verma",
+    "title": "Senior AI Researcher",
+    "location": "New Delhi, India",
+    "years_experience": 7,
+    "skills": ["Python", "TensorFlow", "NLP", "Transformers", "RAG"],
+    "bio": "Published author in NLP conferences. Extensive hands-on experience building complex RAG architectures for enterprise search.",
+    "current_salary_expectation": "₹55LPA",
+    "open_to_work": true
+  },
+  {
+    "id": "c7",
+    "name": "Sarah Jenkins",
+    "title": "Frontend React Developer",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": ["React", "CSS", "Tailwind", "JavaScript", "Figma"],
+    "bio": "Pixel-perfect UI developer. No backend or AI experience, but highly skilled in creating intuitive user interfaces.",
+    "current_salary_expectation": "$75,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c8",
+    "name": "Vikram Singh",
+    "title": "Junior Python Developer",
+    "location": "Mumbai, India",
+    "years_experience": 1,
+    "skills": ["Python", "Django", "Git", "Basic SQL"],
+    "bio": "Recent graduate looking for a junior backend role. Familiar with basic Python web frameworks.",
+    "current_salary_expectation": "₹8LPA",
+    "open_to_work": true
+  },
+  {
+    "id": "c9",
+    "name": "Elena Rodriguez",
+    "title": "Lead Prompt Engineer",
+    "location": "Austin, TX",
+    "years_experience": 3,
+    "skills": ["Prompt Engineering", "OpenAI API", "Content Generation", "Python"],
+    "bio": "Specializes in crafting robust prompts for generative text applications. Currently not looking to leave my current role.",
+    "current_salary_expectation": "$110,000",
+    "open_to_work": false
+  },
+  {
+    "id": "c10",
+    "name": "Arjun Desai",
+    "title": "AI/ML Solutions Architect",
+    "location": "Chennai, India",
+    "years_experience": 9,
+    "skills": ["System Design", "Python", "Kubernetes", "LLM Deployment", "RAG"],
+    "bio": "Designs high-availability machine learning infrastructure. Strong background in deploying LLMs and RAG systems at scale.",
+    "current_salary_expectation": "₹60LPA",
+    "open_to_work": true
+  },
+  {
+    "id": "c11",
+    "name": "Chloe Wong",
+    "title": "Data Analyst",
+    "location": "Toronto, Canada",
+    "years_experience": 2,
+    "skills": ["Excel", "PowerBI", "SQL", "Data Cleansing"],
+    "bio": "Detail-oriented analyst. I love turning raw data into visual stories.",
+    "current_salary_expectation": "$65,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c12",
+    "name": "Tariq Mansour",
+    "title": "DevOps Engineer",
+    "location": "Remote",
+    "years_experience": 6,
+    "skills": ["AWS", "Terraform", "CI/CD", "Docker", "Linux"],
+    "bio": "Keeps the servers running and deployments smooth. Transitioning into MLOps.",
+    "current_salary_expectation": "$130,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c13",
+    "name": "Ananya Joshi",
+    "title": "Senior NLP Engineer",
+    "location": "Bengaluru, India",
+    "years_experience": 5,
+    "skills": ["Python", "HuggingFace", "RAG", "Semantic Search", "FastAPI"],
+    "bio": "Deep expertise in natural language processing and building production-ready RAG applications for customer support agents.",
+    "current_salary_expectation": "₹48LPA",
+    "open_to_work": true
+  },
+  {
+    "id": "c14",
+    "name": "James Smith",
+    "title": "IT Support Specialist",
+    "location": "New York, NY",
+    "years_experience": 4,
+    "skills": ["Troubleshooting", "Active Directory", "Network Setup", "Windows Admin"],
+    "bio": "Reliable IT professional ensuring zero downtime for internal company networks.",
+    "current_salary_expectation": "$60,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c15",
+    "name": "Kavya Menon",
+    "title": "AI Software Engineer",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": ["Python", "LangChain", "Vector DBs", "OpenAI API", "Docker"],
+    "bio": "I build robust middleware integrating language models into existing enterprise software. Open to new challenges.",
+    "current_salary_expectation": "₹38LPA",
+    "open_to_work": true
   }
 ]
