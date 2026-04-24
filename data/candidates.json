@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c1",
+    "name": "Aisha Sharma",
+    "title": "Senior Machine Learning Engineer",
+    "location": "Bengaluru, India",
+    "years_experience": 6,
+    "skills": ["Python", "PyTorch", "LLMs", "RAG", "AWS"],
+    "bio": "Specializes in building scalable RAG pipelines and fine-tuning open-source LLMs. Previously led the AI matching team at a major fintech startup.",
+    "current_salary_expectation": "₹45LPA",
+    "open_to_work": true
+  },
+  {
+    "id": "c2",
+    "name": "David Chen",
+    "title": "Backend Developer",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": ["Node.js", "TypeScript", "PostgreSQL", "Docker"],
+    "bio": "Strong backend developer with a focus on microservices and API design. Interested in transitioning into AI-adjacent roles.",
+    "current_salary_expectation": "$90,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c3",
+    "name": "Priya Patel",
+    "title": "AI Product Manager",
+    "location": "Pune, India",
+    "years_experience": 8,
+    "skills": ["Product Strategy", "Agile", "Data Analysis", "GenAI Concepts"],
+    "bio": "Bridges the gap between technical AI teams and business stakeholders. Delivered 3 enterprise AI products from conception to launch.",
+    "current_salary_expectation": "₹35LPA",
+    "open_to_work": false
+  },
+  {
+    "id": "c4",
+    "name": "Marcus Johnson",
+    "title": "Full Stack AI Engineer",
+    "location": "London, UK",
+    "years_experience": 5,
+    "skills": ["React", "Python", "FastAPI", "LangChain", "Vector Databases"],
+    "bio": "Builds end-to-end AI applications. Passionate about AI agents and conversational interfaces.",
+    "current_salary_expectation": "£85,000",
+    "open_to_work": true
+  },
+  {
+    "id": "c5",
+    "name": "Neha Gupta",
+    "title": "Data Scientist",
+    "location": "Hyderabad, India",
+    "years_experience": 4,
+    "skills": ["Python", "SQL", "Scikit-learn", "Tableau", "Statistical Modeling"],
+    "bio": "Experienced in predictive modeling and customer churn analysis. Looking for opportunities involving deep learning.",
+    "current_salary_expectation": "₹25LPA",
+    "open_to_work": true
+  }
+]
