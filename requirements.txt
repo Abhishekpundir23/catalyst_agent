@@ -1,6 +1,6 @@
-streamlit==1.33.0
-openai==1.17.0
-chromadb==0.4.24
-pydantic==2.7.0
-python-dotenv==1.0.1
+streamlit
+groq
+chromadb
+pydantic
+python-dotenv
 pysqlite3-binary
