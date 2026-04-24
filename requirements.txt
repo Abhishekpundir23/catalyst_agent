@@ -3,4 +3,3 @@ groq
 chromadb
 pydantic
 python-dotenv
-pysqlite3-binary
